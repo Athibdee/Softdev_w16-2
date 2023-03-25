@@ -1,0 +1,381 @@
+Mono path[0] = 'C:/Users/Jedsada_Srijunpoe/Unity projects/Pac_Man/Build/Pac_Man_Data/Managed'
+Mono config path = 'C:/Users/Jedsada_Srijunpoe/Unity projects/Pac_Man/Build/MonoBleedingEdge/etc'
+Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
+[Subsystems] Discovering subsystems at path C:/Users/Jedsada_Srijunpoe/Unity projects/Pac_Man/Build/Pac_Man_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x8a56)
+    Vendor:   Intel
+    VRAM:     3967 MB
+    Driver:   30.0.100.9864
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.146 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.310300 ms
+Server Received the RPC #0 on NetworkObject #1
+Server Received the RPC #1 on NetworkObject #1
+Server Received the RPC #2 on NetworkObject #1
+Server Received the RPC #3 on NetworkObject #1
+Server Received the RPC #4 on NetworkObject #1
+Server Received the RPC #5 on NetworkObject #1
+Server Received the RPC #6 on NetworkObject #1
+Server Received the RPC #7 on NetworkObject #1
+Server Received the RPC #8 on NetworkObject #1
+Server Received the RPC #9 on NetworkObject #1
+Server Received the RPC #10 on NetworkObject #1
+Server Received the RPC #11 on NetworkObject #1
+Server Received the RPC #12 on NetworkObject #1
+Server Received the RPC #13 on NetworkObject #1
+Server Received the RPC #14 on NetworkObject #1
+Server Received the RPC #15 on NetworkObject #1
+Server Received the RPC #16 on NetworkObject #1
+Server Received the RPC #17 on NetworkObject #1
+Server Received the RPC #18 on NetworkObject #1
+Server Received the RPC #19 on NetworkObject #1
+Server Received the RPC #20 on NetworkObject #1
+Server Received the RPC #21 on NetworkObject #1
+Server Received the RPC #22 on NetworkObject #1
+Server Received the RPC #23 on NetworkObject #1
+Server Received the RPC #24 on NetworkObject #1
+Server Received the RPC #25 on NetworkObject #1
+Server Received the RPC #26 on NetworkObject #1
+Server Received the RPC #27 on NetworkObject #1
+Server Received the RPC #28 on NetworkObject #1
+Server Received the RPC #29 on NetworkObject #1
+Server Received the RPC #30 on NetworkObject #1
+Server Received the RPC #31 on NetworkObject #1
+Server Received the RPC #32 on NetworkObject #1
+Server Received the RPC #33 on NetworkObject #1
+Server Received the RPC #34 on NetworkObject #1
+Server Received the RPC #35 on NetworkObject #1
+Server Received the RPC #36 on NetworkObject #1
+Server Received the RPC #37 on NetworkObject #1
+Server Received the RPC #38 on NetworkObject #1
+Server Received the RPC #39 on NetworkObject #1
+Server Received the RPC #40 on NetworkObject #1
+Server Received the RPC #41 on NetworkObject #1
+Server Received the RPC #42 on NetworkObject #1
+Server Received the RPC #43 on NetworkObject #1
+Server Received the RPC #44 on NetworkObject #1
+Server Received the RPC #45 on NetworkObject #1
+Server Received the RPC #46 on NetworkObject #1
+Server Received the RPC #47 on NetworkObject #1
+Server Received the RPC #48 on NetworkObject #1
+Server Received the RPC #49 on NetworkObject #1
+Server Received the RPC #50 on NetworkObject #1
+Server Received the RPC #51 on NetworkObject #1
+Server Received the RPC #52 on NetworkObject #1
+Server Received the RPC #53 on NetworkObject #1
+Server Received the RPC #54 on NetworkObject #1
+Server Received the RPC #55 on NetworkObject #1
+Server Received the RPC #56 on NetworkObject #1
+Server Received the RPC #57 on NetworkObject #1
+Server Received the RPC #58 on NetworkObject #1
+Server Received the RPC #59 on NetworkObject #1
+Server Received the RPC #60 on NetworkObject #1
+Server Received the RPC #61 on NetworkObject #1
+Server Received the RPC #62 on NetworkObject #1
+Server Received the RPC #63 on NetworkObject #1
+Server Received the RPC #64 on NetworkObject #1
+Server Received the RPC #65 on NetworkObject #1
+Server Received the RPC #66 on NetworkObject #1
+Server Received the RPC #67 on NetworkObject #1
+Server Received the RPC #68 on NetworkObject #1
+Server Received the RPC #69 on NetworkObject #1
+Server Received the RPC #70 on NetworkObject #1
+Server Received the RPC #71 on NetworkObject #1
+Server Received the RPC #72 on NetworkObject #1
+Server Received the RPC #73 on NetworkObject #1
+Server Received the RPC #74 on NetworkObject #1
+Server Received the RPC #75 on NetworkObject #1
+Server Received the RPC #76 on NetworkObject #1
+Server Received the RPC #77 on NetworkObject #1
+Server Received the RPC #78 on NetworkObject #1
+Server Received the RPC #79 on NetworkObject #1
+Server Received the RPC #80 on NetworkObject #1
+Server Received the RPC #81 on NetworkObject #1
+Server Received the RPC #82 on NetworkObject #1
+Server Received the RPC #83 on NetworkObject #1
+Server Received the RPC #84 on NetworkObject #1
+Server Received the RPC #85 on NetworkObject #1
+Server Received the RPC #86 on NetworkObject #1
+Server Received the RPC #87 on NetworkObject #1
+Server Received the RPC #88 on NetworkObject #1
+Server Received the RPC #89 on NetworkObject #1
+Server Received the RPC #90 on NetworkObject #1
+Server Received the RPC #91 on NetworkObject #1
+Server Received the RPC #92 on NetworkObject #1
+Server Received the RPC #93 on NetworkObject #1
+Server Received the RPC #94 on NetworkObject #1
+Server Received the RPC #95 on NetworkObject #1
+Server Received the RPC #96 on NetworkObject #1
+Server Received the RPC #97 on NetworkObject #1
+Server Received the RPC #98 on NetworkObject #1
+Server Received the RPC #99 on NetworkObject #1
+Server Received the RPC #100 on NetworkObject #1
+Server Received the RPC #101 on NetworkObject #1
+Server Received the RPC #102 on NetworkObject #1
+Server Received the RPC #103 on NetworkObject #1
+Server Received the RPC #104 on NetworkObject #1
+Server Received the RPC #105 on NetworkObject #1
+Server Received the RPC #106 on NetworkObject #1
+Server Received the RPC #107 on NetworkObject #1
+Server Received the RPC #108 on NetworkObject #1
+Server Received the RPC #109 on NetworkObject #1
+Server Received the RPC #110 on NetworkObject #1
+Server Received the RPC #111 on NetworkObject #1
+Server Received the RPC #112 on NetworkObject #1
+Server Received the RPC #113 on NetworkObject #1
+Server Received the RPC #114 on NetworkObject #1
+Server Received the RPC #115 on NetworkObject #1
+Server Received the RPC #116 on NetworkObject #1
+Server Received the RPC #117 on NetworkObject #1
+Server Received the RPC #118 on NetworkObject #1
+Server Received the RPC #119 on NetworkObject #1
+Server Received the RPC #120 on NetworkObject #1
+Server Received the RPC #121 on NetworkObject #1
+Server Received the RPC #122 on NetworkObject #1
+Server Received the RPC #123 on NetworkObject #1
+Server Received the RPC #124 on NetworkObject #1
+Server Received the RPC #125 on NetworkObject #1
+Server Received the RPC #126 on NetworkObject #1
+Server Received the RPC #127 on NetworkObject #1
+Server Received the RPC #128 on NetworkObject #1
+Server Received the RPC #129 on NetworkObject #1
+Server Received the RPC #130 on NetworkObject #1
+Server Received the RPC #131 on NetworkObject #1
+Server Received the RPC #132 on NetworkObject #1
+Server Received the RPC #133 on NetworkObject #1
+Server Received the RPC #134 on NetworkObject #1
+Server Received the RPC #135 on NetworkObject #1
+Server Received the RPC #136 on NetworkObject #1
+Setting up 2 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 212 frames, [16.0 KB-32.0 KB]: 602 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 285 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 46.4 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 261 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 2
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 105
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 815 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 19.2 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 815 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 17.2 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 814 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 815 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 183.1 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 815 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.2 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 814 frames, [64.0 KB-128.0 KB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 111.2 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 815 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.0 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 815 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.3 KB
+      Peak Large allocation bytes 0 B

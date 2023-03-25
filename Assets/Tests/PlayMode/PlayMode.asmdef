@@ -1,0 +1,27 @@
+{
+    "name": "PlayMode",
+    "rootNamespace": "",
+    "references": [
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner",
+        "Scripts",
+        "Unity.Netcode.RuntimeTests",
+        "Unity.Netcode.Runtime",
+        "Unity.InputSystem.TestFramework",
+        "Unity.InputSystem",
+        "Unity.InputSystem.IntegrationTests"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
