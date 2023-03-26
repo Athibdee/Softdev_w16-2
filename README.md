@@ -1,5 +1,7 @@
 # Quiz add 3 Items GhostStop SpawnGhost and DespawnGhost
 
+[OLD VERSION] Google Play Store: https://play.google.com/store/apps/details?id=com.g1company.thecastle
+
 # Welcome to Softdev2 repository!
 
 ## My Teams
